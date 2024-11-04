@@ -17,25 +17,25 @@ This project is a Streamlit-based web application that applies neural style tran
 
 ## Installation
 1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/tapan2003/Art-Style-Transfer.git
-    cd Art-Style-Transfer
-    ```
+```bash
+git clone https://github.com/tapan2003/Art-Style-Transfer.git
+cd Art-Style-Transfer
+```
 
 2. **Install Dependencies** 
    Ensure you have Python and pip installed, then run:
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 3. **Prepare Style Images Folder** 
     Make sure you have a styles folder in the project root, containing default style images as specified in app.py.
 
 ## Usage
 To run the app, use the following command:
-    ```bash
-    streamlit run app.py
-    ```
+```bash
+streamlit run app.py
+```
     
 This will open the Streamlit interface in your default web browser.
 
