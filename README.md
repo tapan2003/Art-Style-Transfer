@@ -30,7 +30,7 @@ This project is a Streamlit-based web application that applies neural style tran
     Make sure you have a styles folder in the project root, containing default style images as specified in app.py.
 
 ## Usage
-    To run the app, use the following command:
+To run the app, use the following command:
         ```bash
         streamlit run app.py
     
