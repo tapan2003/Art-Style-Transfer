@@ -33,6 +33,7 @@ This project is a Streamlit-based web application that applies neural style tran
 To run the app, use the following command:
     ```bash
     streamlit run app.py
+    
 This will open the Streamlit interface in your default web browser.
 
 ## Disclaimer
